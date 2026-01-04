@@ -2,3 +2,12 @@
 .second{
     border:2px solid teal;
 }
+.header{
+    color: palevioletred;
+    font-size:30px;
+    text-align: center;
+    font-style: italic;
+}
+li{
+   list-style-position:inside;
+}
