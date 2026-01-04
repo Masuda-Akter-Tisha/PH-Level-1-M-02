@@ -11,3 +11,12 @@
 li{
    list-style-position:inside;
 }
+.bg-img{
+    border: 5px solid black;
+    width: 700px;
+    height:500px;
+    background-image: url('../images/national-gallery-of-art-UY9-UWEHXzM-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position:right top;*/
+}
