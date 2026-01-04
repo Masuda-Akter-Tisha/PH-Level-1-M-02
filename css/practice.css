@@ -29,3 +29,12 @@ li{
     color: darkgoldenrod;
     box-shadow:10px 10px 30px 5px grey;
 }
+span{
+    border:2px solid black;
+    padding:40px;
+    margin:40px;
+    color: aqua;
+    display: inline-block;
+    /* display: none; */
+       /* visibility: hidden; */
+}
