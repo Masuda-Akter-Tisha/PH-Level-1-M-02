@@ -13,10 +13,19 @@ li{
 }
 .bg-img{
     border: 5px solid black;
-    width: 700px;
+    width:700px;
     height:500px;
     background-image: url('../images/national-gallery-of-art-UY9-UWEHXzM-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     /* background-position:right top;*/
+}
+.css-box{
+    border:5px solid bisque;
+    width:500px;
+    margin:50px;
+    padding:30px;
+    background-color: bisque;
+    color: darkgoldenrod;
+    box-shadow:10px 10px 30px 5px grey;
 }
